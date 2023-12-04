@@ -1,0 +1,11 @@
+C:\Users\August\source\repos\ATProjects\DemoLoops\bin\Debug\DemoLoops.exe.config
+C:\Users\August\source\repos\ATProjects\DemoLoops\bin\Debug\DemoLoops.exe
+C:\Users\August\source\repos\ATProjects\DemoLoops\bin\Debug\DemoLoops.pdb
+C:\Users\August\source\repos\ATProjects\DemoLoops\obj\Debug\DemoLoops.csproj.AssemblyReference.cache
+C:\Users\August\source\repos\ATProjects\DemoLoops\obj\Debug\DemoLoops.csproj.SuggestedBindingRedirects.cache
+C:\Users\August\source\repos\ATProjects\DemoLoops\obj\Debug\DemoLoops.Form1.resources
+C:\Users\August\source\repos\ATProjects\DemoLoops\obj\Debug\DemoLoops.Properties.Resources.resources
+C:\Users\August\source\repos\ATProjects\DemoLoops\obj\Debug\DemoLoops.csproj.GenerateResource.cache
+C:\Users\August\source\repos\ATProjects\DemoLoops\obj\Debug\DemoLoops.csproj.CoreCompileInputs.cache
+C:\Users\August\source\repos\ATProjects\DemoLoops\obj\Debug\DemoLoops.exe
+C:\Users\August\source\repos\ATProjects\DemoLoops\obj\Debug\DemoLoops.pdb

@@ -1,0 +1,14 @@
+C:\Users\August\source\repos\ATProjects\DemoMethods\bin\Debug\DemoMethods.exe.config
+C:\Users\August\source\repos\ATProjects\DemoMethods\bin\Debug\DemoMethods.exe
+C:\Users\August\source\repos\ATProjects\DemoMethods\bin\Debug\DemoMethods.pdb
+C:\Users\August\source\repos\ATProjects\DemoMethods\obj\Debug\DemoMethods.csproj.AssemblyReference.cache
+C:\Users\August\source\repos\ATProjects\DemoMethods\obj\Debug\DemoMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\August\source\repos\ATProjects\DemoMethods\obj\Debug\DemoMethods.frmMain.resources
+C:\Users\August\source\repos\ATProjects\DemoMethods\obj\Debug\DemoMethods.Properties.Resources.resources
+C:\Users\August\source\repos\ATProjects\DemoMethods\obj\Debug\DemoMethods.csproj.GenerateResource.cache
+C:\Users\August\source\repos\ATProjects\DemoMethods\obj\Debug\DemoMethods.csproj.CoreCompileInputs.cache
+C:\Users\August\source\repos\ATProjects\DemoMethods\obj\Debug\DemoMethods.exe
+C:\Users\August\source\repos\ATProjects\DemoMethods\obj\Debug\DemoMethods.pdb
+C:\Users\August\source\repos\ATProjects\DemoMethods\obj\Debug\DemoMethods.frmProperty.resources
+C:\Users\August\source\repos\ATProjects\DemoMethods\obj\Debug\DemoMethods.frmEmployee.resources
+C:\Users\August\source\repos\ATProjects\DemoMethods\obj\Debug\DemoMethods.frmEquipment.resources
